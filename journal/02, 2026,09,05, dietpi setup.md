@@ -2,7 +2,6 @@
 
 **Duration:** ~3 hours
 **Outcome:** Node 1 online. SSH working. Static IP configured. Ready for services.
-**Mood:** 🚀
 
 ---
 

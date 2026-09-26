@@ -2,7 +2,6 @@
 
 **Duration:** ~4 hours
 **Outcome:** Pi-hole running. Immich running, temporarily.
-**Mood:** 🎯 → ⚠️
 
 ---
 
