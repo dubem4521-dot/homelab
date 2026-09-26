@@ -1,10 +1,8 @@
-# Entey `03, 2026,09,07 Pi-hole and Immich native install.md`
-
-```markdown
 # Entry 03: 2026,09,07 — Pi-hole and Immich native install
 
 **Duration:** ~4 hours
 **Outcome:** Pi-hole running. Immich running, temporarily.
+**Mood:** 🎯 → ⚠️
 
 ---
 
@@ -44,6 +42,11 @@ After install:
 ### Pi-hole capability warnings
 
 Warnings appeared in the logs that I would see again later when migrating to Docker:
+
+```
+WARNING: Insufficient permissions to set process priority to -10
+WARNING: Linux capability CAP_SYS_TIME is not available
+```
 
 **Explanation:** Pi-hole, running as a non root user, wants to raise its own priority and set the system time. Both require capabilities the native install does not grant. Harmless for basic operation.
 
