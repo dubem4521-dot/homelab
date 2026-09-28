@@ -1,4 +1,4 @@
-# Entry 00: 2026,08,28 — HP t520, Windows 8 to Linux Mint XFCE. First boot
+# Entry 00: 2026,08,28 - HP t520, Windows 8 to Linux Mint XFCE. First boot
 
 **Duration:** ~3 hours
 **Outcome:** t520 running Linux Mint XFCE. First boot was disappointing.

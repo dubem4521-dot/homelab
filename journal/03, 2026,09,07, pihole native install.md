@@ -1,4 +1,4 @@
-# Entry 03: 2026,09,07 — Pi-hole and Immich native install
+# Entry 03: 2026,09,07 - Pi-hole and Immich native install
 
 **Duration:** ~4 hours
 **Outcome:** Pi-hole running. Immich running, temporarily.

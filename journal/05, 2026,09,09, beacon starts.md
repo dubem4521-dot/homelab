@@ -1,4 +1,4 @@
-# Entry 05: 2026,09,08 — Roadmap shared, Beacon Suite planned
+# Entry 05: 2026,09,08 - Roadmap shared, Beacon Suite planned
 
 **Duration:** ~2 hours
 **Outcome:** Full plan for the Beacon Suite. Roadmap doc written.

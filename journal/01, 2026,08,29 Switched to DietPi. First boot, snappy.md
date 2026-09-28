@@ -1,4 +1,4 @@
-# Entry 01: 2026,08,29 — Switched to DietPi. First boot, snappy.
+# Entry 01: 2026,08,29 - Switched to DietPi. First boot, snappy.
 
 **Duration:** ~2 hours
 **Outcome:** DietPi installed. First boot was dramatic, in the good way.

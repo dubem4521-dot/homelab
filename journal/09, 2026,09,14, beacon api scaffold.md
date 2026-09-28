@@ -1,4 +1,4 @@
-# Entry 09: 2026,09,12 — Dockerize Beacon, GitHub Actions CI
+# Entry 09: 2026,09,12 - Dockerize Beacon, GitHub Actions CI
 
 **Duration:** ~2 days, evenings across the 12th and 13th
 **Outcome:** Beacon running in a container. GitHub Actions builds and pushes to Docker Hub on every commit.

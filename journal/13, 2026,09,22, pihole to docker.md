@@ -1,4 +1,4 @@
-# Entry 13: 2026,09,21 — BATABASE URL typo, CORS, first live data
+# Entry 13: 2026,09,21 - BATABASE URL typo, CORS, first live data
 
 **Duration:** ~5 hours
 **Outcome:** Frontend talking to backend. First real persistent data.

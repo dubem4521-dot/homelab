@@ -1,4 +1,4 @@
-# Entry 06: 2026,09,09 — Beacon starts, HTML CSS JS skeleton
+# Entry 06: 2026,09,09 - Beacon starts, HTML CSS JS skeleton
 
 **Duration:** ~4 hours
 **Outcome:** Working HTML, CSS, JS skeleton. No Docker yet.

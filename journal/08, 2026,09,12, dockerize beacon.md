@@ -1,4 +1,4 @@
-# Entry 08: 2026,09,11 — Add item modal, favicon auto fetch
+# Entry 08: 2026,09,11 - Add item modal, favicon auto fetch
 
 **Duration:** ~4 hours
 **Outcome:** Reusable modal for adding items. Auto fetched favicons.

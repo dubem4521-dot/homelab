@@ -1,4 +1,4 @@
-# Entry 10: 2026,09,14 — beacon api scaffold, FastAPI hello world
+# Entry 10: 2026,09,14 - beacon api scaffold, FastAPI hello world
 
 **Duration:** ~3 hours
 **Outcome:** Working FastAPI app with `/health` and `/` endpoints. Containerized.

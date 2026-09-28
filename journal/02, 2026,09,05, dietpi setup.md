@@ -1,4 +1,4 @@
-# Entry 02: 2026,09,05 — DietPi setup, static IP, SSH
+# Entry 02: 2026,09,05 - DietPi setup, static IP, SSH
 
 **Duration:** ~3 hours
 **Outcome:** Node 1 online. SSH working. Static IP configured. Ready for services.

@@ -1,4 +1,4 @@
-# Entry 12: 2026,09,16 to 09,20 — The gap, no activity
+# Entry 12: 2026,09,16 to 09,20 - The gap, no activity
 
 **Duration:** 5 days
 **Outcome:** Nothing changed. Life got in the way.
